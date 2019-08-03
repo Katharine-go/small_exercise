@@ -2,3 +2,5 @@
 1.python回文字符串判断  
 2.python简单文本编辑器  
 3.python天气预报  
+4.pythonIP注册地查询  
+5.python产品库存类  

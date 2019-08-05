@@ -7,3 +7,5 @@
 6.python电影商店  
 7.python学生成绩管理器  
 8.python下载进度条  
+9.python多线程下载器  
+

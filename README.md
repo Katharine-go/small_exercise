@@ -6,3 +6,4 @@
 5.python产品库存类  
 6.python电影商店  
 7.python学生成绩管理器  
+8.python下载进度条  

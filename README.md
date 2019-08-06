@@ -8,6 +8,6 @@
 7. python学生成绩管理器  
 8. python下载进度条  
 9. python多线程下载器  
-11.python文件管理器  
-12.python文件压缩解压缩(及文件相关操作)  
+11. python文件管理器  
+12. python文件压缩解压缩(及文件相关操作)  
 

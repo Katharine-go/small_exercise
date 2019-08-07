@@ -11,4 +11,5 @@
 11. python文件管理器  
 12. python文件压缩解压缩(及文件相关操作)  
 13. python利用pillow模块生成验证码  
+14. python实时股价  
 

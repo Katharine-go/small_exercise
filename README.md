@@ -13,5 +13,7 @@
 12. python利用pillow模块生成验证码  
 13. python实时股价  
 14. pythonYoutube下载器  
-15. python截图工具(PIL实现)
+15. python截图工具(PIL实现)  
+16. python通讯录  
+17. python批量图片处理  
 

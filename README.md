@@ -16,4 +16,6 @@
 15. python截图工具(PIL实现)  
 16. python通讯录  
 17. python批量图片处理  
+18. python旅行查询  
+19. python图片增加文字，水印  
 

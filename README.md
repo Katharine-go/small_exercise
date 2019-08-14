@@ -24,6 +24,9 @@
 23. python5种方法逆转字符串  
 24. python图书借阅  
 25. python10种加密算法简介及实现  
+26. python实现html/web导出到word/pdf  
+27. python批量图片重命名  
+
 
 
 

@@ -26,6 +26,9 @@
 25. python10种加密算法简介及实现  
 26. python实现html/web导出到word/pdf  
 27. python批量图片重命名  
+28. python银行账户类  
+29. python爬取美剧下载链接  
+30. python监测网速脚本  
 
 
 
